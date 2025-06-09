@@ -42,7 +42,7 @@ button:hover {
     border: 2px solid white; /* Borda branca */
     padding: 20px;
     border-radius: 10px; /* Bordas arredondadas */
-    box-shadow: 0 0 10px rgba(55, 125, 255, 0.5); /* Sombra para dar destaque */
+    box-shadow: 0 0 10px rgba(255, 51, 255, 0.5); /* Sombra para dar destaque */
     margin: 20px auto; /* Centraliza o retângulo */
     max-width: 400px; /* Largura máxima */
 }
